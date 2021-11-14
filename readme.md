@@ -39,4 +39,28 @@ DELETE Data
 
 UPDATE Data
 
+    no bug/errors found
+
+
+Reading .sql Files
+
+    no bug/errors found
+
+
+Intro to SQL and Express
+
+    no bug/errors found
+
+
+Basic SQL
+
+    Phase 1
+
+    no bug/errors found
+
+
+    Phase 2 
+
+    
+
     
