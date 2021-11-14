@@ -27,3 +27,16 @@ INSERT Data
 
     no bug/errors found
 
+SELECT Data
+
+    no bug/errors found
+
+
+DELETE Data
+
+    no bug/errors found
+
+
+UPDATE Data
+
+    
