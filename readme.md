@@ -61,6 +61,17 @@ Basic SQL
 
     Phase 2 
 
-    
+    no bug/erros found
 
+    Phase 3
+
+    Ross demands a refund for the last two coffees that he ordered. (Make sure you delete Ross's coffee orders and not anyone else's. Update his points to reflect the returned purchases.)
+
+        How can I delete his orders without a foreign_key linking a coffee order to his?.. with manually backtracking every order made since then?
+
+    
+    Phase 4
+
+    Proof read... but... Nahhh, not doing all that. 
+    I do like the theme lol
     
