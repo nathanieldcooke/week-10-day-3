@@ -75,3 +75,9 @@ Basic SQL
     Proof read... but... Nahhh, not doing all that. 
     I do like the theme lol
     
+HomeWork Notes:
+
+should it be === equalt for : https://raw.githubusercontent.com/appacademy/Modular-Curriculum/master/content/module-04/[…]iz-select-clauses.md?token=AD6HJ6VS6M4YVIIGDSMP2ADBTZK7M
+
+10 = 6 is not equal to 6 months.
+link: https://github.com/appacademy/Modular-Curriculum/blob/master/content/module-04/wee[…]intermediate-sql/readings/reading-select-using-sql-operators.md
